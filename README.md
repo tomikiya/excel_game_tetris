@@ -31,3 +31,5 @@ I made it to work on Excel 2010 and newer, I have only checked it on Excel 2013 
 Since the main sheet and the sheet for the controller are separate, please click on [View]-[Window]-[New Window] after you open the file to display another sheet.
 
 Then, it will start working if you continue to press F9!
+
+https://papasensei365.com/excel-game-tetris-english
