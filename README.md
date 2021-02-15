@@ -23,3 +23,11 @@ https://papasensei365.com/excel-game-tetris
 
 # そのほか注意事項
 - 他のExcelファイルを全て閉じてから開いてください。またこのファイルを開いているときに他のファイルを開かないでください。反復計算オプションを有効にしているため他のファイルを壊す恐れがあります。
+
+# English
+
+I made it to work on Excel 2010 and newer, I have only checked it on Excel 2013 and Excel 2016 on Windows.
+
+Since the main sheet and the sheet for the controller are separate, please click on [View]-[Window]-[New Window] after you open the file to display another sheet.
+
+Then, it will start working if you continue to press F9!
